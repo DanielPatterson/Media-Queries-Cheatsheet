@@ -1,0 +1,41 @@
+@media (min-width: 1200px) {
+  /* your styles here */}
+
+@media (min-width: 992px) {
+  /* your styles here */}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* your styles here */}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* your styles here */}
+
+@media (min-width: 768px) {
+  /* your styles here */}
+
+@media (max-width: 768px) {
+  /* your styles here */}
+
+@media (min-width: 767px) {
+  /* your styles here */}
+
+@media (max-width: 767px) {
+  /* your styles here */}
+
+@media screen and (min-width: 767px) {
+  /* your styles here */}
+
+@media screen and (max-width: 767px) {
+  /* your styles here */}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* your styles here */}
+
+@media (max-device-width: 480px) and (orientation: landscape) {
+  /* your styles here */}
+
+@media screen and (max-width: 360px) {
+  /* your styles here */}
+
+@media screen and (max-width: 320px) {
+  /* your styles here */}
